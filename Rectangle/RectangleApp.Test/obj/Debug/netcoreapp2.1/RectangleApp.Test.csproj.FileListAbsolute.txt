@@ -1,0 +1,17 @@
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\RectangleApp.Test.deps.json
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\RectangleApp.Test.runtimeconfig.json
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\RectangleApp.Test.runtimeconfig.dev.json
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\RectangleApp.Test.dll
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\RectangleApp.Test.pdb
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\RectangleApp.dll
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\bin\Debug\netcoreapp2.1\RectangleApp.pdb
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\obj\Debug\netcoreapp2.1\RectangleApp.Test.AssemblyInfoInputs.cache
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\obj\Debug\netcoreapp2.1\RectangleApp.Test.AssemblyInfo.cs
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\obj\Debug\netcoreapp2.1\RectangleApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\obj\Debug\netcoreapp2.1\RectangleApp.Test.csproj.CopyComplete
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\obj\Debug\netcoreapp2.1\RectangleApp.Test.dll
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\obj\Debug\netcoreapp2.1\RectangleApp.Test.pdb
+C:\Users\azhar\source\repos\Rectangle\RectangleApp.Test\obj\Debug\netcoreapp2.1\RectangleApp.Test.csprojAssemblyReference.cache
